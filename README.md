@@ -1,10 +1,10 @@
-Flutter package for FlutterLab, a UI design tool
+Flutter package for FlutterLab, a UI design tool. Quickly change the parameters of widgets (color, size, alignment, padding, position, opacity, etc.)
 
 
 <img src="https://raw.githubusercontent.com/flutterlabdev/flutter_lab/master/resources/loop.gif" style="max-width:80%;width:500px"/>
 
 
-<a href="http://www.youtube.com/watch?v=h-2Txww87Cw"  target="_blank">Watch on Youtube</a>
+<a href="https://www.youtube.com/watch?v=h-2Txww87Cw"  target="_blank">Watch on Youtube</a>
 
 ## Install FlutterLab (for windows)
 
