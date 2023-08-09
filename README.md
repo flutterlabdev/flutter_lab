@@ -4,12 +4,15 @@ Flutter package for FlutterLab, a UI design tool. Quickly change the parameters 
 <img src="https://raw.githubusercontent.com/flutterlabdev/flutter_lab/master/resources/loop.gif" style="max-width:80%;width:500px"/>
 
 
-<a href="https://www.youtube.com/watch?v=h-2Txww87Cw"  target="_blank">Watch on Youtube</a>
+<a href="https://youtu.be/nIxstsQ66_M"  target="_blank">Watch on Youtube</a>
 
-## Install FlutterLab (for windows)
+## Install FlutterLab
 
-Install FlutterLab => 
-<a href="https://github.com/flutterlabdev/flutter_lab/releases/download/static/FlutterLabSetup.exe" target="_blank">FlutterLabSetup.exe</a> (Download for windows)
+
+- macOS →  <a href="https://apps.apple.com/app/id6451071756" target="_blank">Download from App Store</a> 
+
+- Windows → <a href="https://github.com/flutterlabdev/flutter_lab/releases/download/static/FlutterLabSetup.exe" target="_blank">FlutterLabSetup.exe</a> (Download from <a href="https://github.com/flutterlabdev/flutter_lab/releases/" target="_blank">github</a>)
+
 
 ## Usage
 
@@ -85,6 +88,7 @@ These widgets can be used
 - Positioned -> LabPositioned
 - SizedBox -> LabSizedBox
 - Opacity -> LabOpacity
+- Icon -> LabIcon
 
 
 

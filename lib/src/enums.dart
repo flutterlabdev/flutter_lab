@@ -10,6 +10,7 @@ enum WidgetType {
   Stack,
   Column,
   Positioned,
+  Icon,
 }
 
 enum BorderSideParam {

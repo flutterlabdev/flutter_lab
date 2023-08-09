@@ -10,3 +10,4 @@ export 'src/widgets/positioned.dart' show LabPositioned;
 export 'src/widgets/row.dart' show LabRow;
 export 'src/widgets/sized_box.dart' show LabSizedBox;
 export 'src/widgets/stack.dart' show LabStack;
+export 'src/widgets/icon.dart' show LabIcon;
